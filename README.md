@@ -1,7 +1,7 @@
-# BitterSweet: Building machine learning models for predicting the bitter and sweet taste of small molecules
+# Maillard: Building machine learning models for predicting the products of maillard reaction
 
 <p align="center">
-  <img src="https://cosylab.iiitd.edu.in/bittersweet/static/images/overview-image.jpg"/>
+  <img src="https://maillard.neau.edu.cn/"/>
 </p>
 
 ## Abstract
@@ -22,21 +22,20 @@ publicly available, and also present an end-to-end software for bitter-sweet tas
 freely available chemical descriptors.
 
 ## Authors
-1. Rudraksh Tuwani
-2. Somin Wadhwa
-3. Ganesh Bagler<sup>*</sup>
+1. Yutang Wang
+2. Haibin Ren
+3. Huihui Yang<sup>*</sup>
 
-Center for Computational Biology, Indraprastha Institute of Information Technology (IIIT-
-Delhi), New Delhi, India
-<sup>*</sup>Corresponding Author (ganesh.bagler@gmail.com, bagler@iiitd.ac.in)
+Key Lab of Dairy Science (KLDS-NEAU), Harbin, China
+<sup>*</sup>Corresponding Author (fic@neau.edu.cn, wangyt@neau.edu.cn)
 
 ## Pre-requisites for execution
 To setup a working environment to execute some or all sections of this project, you must:
 
-1. Clone the project `bittersweet` - 
+1. Clone the project `MaillardPy` - 
 	    
-	    $ git clone https://github.com/cosylabiiit/bittersweet.git
-	    $ cd bittersweet
+	    $ git clone https://github.com/wzhanglab/MaillardPy
+	    $ cd maillard
 
 2. We use `conda` as a tool to create isolated virtual environments and since some of our packages require building binaries from their source, it is necessary to create your env from the `requirement.yml` file provided.
 
@@ -47,29 +46,25 @@ To setup a working environment to execute some or all sections of this project, 
 		
 		$ conda deactivate
 		
-\* Ensure that all scripts are run under a python 2.7 environment.
+\* Ensure that all scripts are run under a python 3.7 environment.
 
 ## Directory Structure
 
     .
     .
     ├── data                     # Model Training & Test Data (Tabular Format)
-    │   ├── bitter-test.tsv
-    │   ├── bitter-train.tsv
-    │   ├── sweet-test.tsv
-    │   ├── sweet-train.tsv
+    │   ├── maillard-test.tsv
+    │   ├── maillard-train.tsv
     ├── bittersweet                    # All Source Files
     │   ├── models			# Trained Models
-    │   │   ├── bitter_chemopy_boruta_features.p
-    │   │   ├── bitter_chemopy_rf_boruta.p
-    │   │   ├── sweet_chemopy_boruta_features.p
-    │   │   ├── sweet_chemopy_rf_boruta.p
+    │   │   ├── maillard_chemopy_boruta_features.p
+    │   │   ├── maillard_chemopy_rf_boruta.p
     │   ├── __init__.py
     │   ├── model.py
     │   ├── properties.py
     │   ├── read_file.py
     ├── manuscript-experiments                    # Testing modules (including those for random-control experiments)
-    │   ├── bittersweet					# Directory containing scripts
+    │   ├── maillard					# Directory containing scripts
     │   ├── data						# Directory containing data
     │   ├── models						# Directory containing models
     ├── examples             
@@ -79,7 +74,7 @@ To setup a working environment to execute some or all sections of this project, 
 
 
 ## Acknowledgement
-The authors thank Indraprastha Institute of Information Technology (IIIT-Delhi) for providing computational facilities and support. 
+The authors thank Center for Education Technology,NEAU(CET-NEAU) for providing computational facilities and support. 
 
 ## Author Contributions
-G.B. and R.T. designed the study. R.T. curated the data. S.W., R.T. performed feature selection and importance ranking experiments, and trained the models. R.T. generated the bitter-sweet predictions for specialized chemicals sets. All the authors analysed the results and wrote the manuscript.  
+Y.Wang. and H.Y. designed the study. H.R. curated the data. H.Y., H.R. performed feature selection and importance ranking experiments, and trained the models. H.R. generated the Maillard predictions for specialized chemicals sets. All the authors analysed the results and wrote the manuscript.  
