@@ -1,25 +1,17 @@
 # Maillard: Building machine learning models for predicting the products of maillard reaction
 
 <p align="center">
-  <img src="https://maillard.neau.edu.cn/"/>
+  <img src="http://maillard.neau.edu.cn/resimg/generation_pathways_of_ages.png"/>
 </p>
 
 ## Abstract
-The dichotomy of sweet and bitter tastes is a salient evolutionary feature of human
-gustatory system with an innate attraction to sweet taste and aversion to bitterness. A better
-understanding of molecular correlates of bitter-sweet taste gradient is crucial for identification of
-natural as well as synthetic compounds of desirable taste on this axis. While previous studies have
-advanced our understanding of the molecular basis of bitter-sweet taste and contributed models for
-their identification, there is ample scope to enhance these models by meticulous compilation of bitter-
-sweet molecules and utilization of a wide spectrum of molecular descriptors. Towards these goals,
-based on structured data compilation our study provides an integrative framework with state-of-the-art
-machine learning models for bitter-sweet taste prediction (BitterSweet). We compare different sets of
-molecular descriptors for their predictive performance and further identify important features as well
-as feature blocks. The utility of BitterSweet models is demonstrated by taste prediction on large
-specialized chemical sets such as FlavorDB, FooDB, SuperSweet, Super Natural II, DSSTox, and
-DrugBank. To facilitate future research in this direction, we make all datasets and BitterSweet models
-publicly available, and also present an end-to-end software for bitter-sweet taste prediction based on
-freely available chemical descriptors.
+.The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor. Seared steaks, fried dumplings, cookies and other kinds of biscuits, breads, toasted marshmallows, and many other foods undergo this reaction. It is named after French chemist Louis-Camille Maillard, who first described it in 1912 while attempting to reproduce biological protein synthesis.
+The reactive carbonyl group of the sugar reacts with the nucleophilic amino group of the amino acid,  and forms a complex mixture of poorly characterized molecules responsible for a range of aromas and flavors. 
+Maillard reactions can produce hundreds of different Advanced glycation end products (AGEs depending on the chemical constituents in the food, the temperature, the cooking time, and the presence of air. Advanced glycation end products (AGEs) are proteins or lipids that become glycated as a result of exposure to sugars. They are a bio-marker implicated in aging and the development, or worsening, of many degenerative diseases, such as diabetes, atherosclerosis, chronic kidney disease, and Alzheimer's disease.
+Melanoidins are brown, high molecular weight heterogeneous polymers that are formed when sugars and amino acids combine (through the Maillard reaction) at high temperatures and low water activity. Melanoidins are commonly present in foods that have undergone some form of non-enzymatic browning, such as barley malts (Vienna and Munich), bread crust, bakery products and coffee. They are also present in the wastewater of sugar refineries, necessitating treatment in order to avoid contamination around the outflow of these refineries.
+The polymers make the constituting dietary sugars and fats unavailable to the normal carbohydrate and fat metabolism. Dietary melanoidins themselves produce various effects in the organism: they decrease Phase I liver enzyme activity and promote glycation in vivo, which may contribute to diabetes, reduced vascular compliance and Alzheimer's disease. Some of the melanoidins are metabolized by the intestinal microflora
+
+
 
 ## Authors
 1. Yutang Wang
