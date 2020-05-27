@@ -1,5 +1,5 @@
-from bittersweet.properties import get_chemopy_props_from_smilesfile
-from bittersweet.model import Model
+from maillardpy.properties import get_chemopy_props_from_smilesfile
+from maillardpy.model import Model
 import pandas as pd
 import argparse
 import os
@@ -11,10 +11,10 @@ parser.add_argument("dtype", help="Enter the molecular format of file (smiles/sd
 parser.add_argument("output", help="Enter the path to the folder where output will be saved.")
 
 # Model and model feature paths.
-BITTER_MODEL = 'bittersweet/models/bitter_chemopy_rf_boruta.p'
-BITTER_FEATURES = 'bittersweet/models/bitter_chemopy_boruta_features.p'
-SWEET_MODEL = 'bittersweet/models/sweet_chemopy_rf_boruta.p'
-SWEET_FEATURES = 'bittersweet/models/sweet_chemopy_boruta_features.p'
+ages_MODEL = 'maillardpy/models/ages_chemopy_rf_boruta.p'
+ages_FEATURES = 'maillardpy/models/ages_chemopy_boruta_features.p'
+noages_MODEL = 'maillardpy/models/noages_chemopy_rf_boruta.p'
+noages_FEATURES = 'maillardpy/models/noages_chemopy_boruta_features.p'
 
 def get_prediction(f, dtype):
     
@@ -36,15 +36,15 @@ def get_prediction(f, dtype):
     data = data.loc[null_values == 0]
 
     # Generate prediction
-    model = Model(BITTER_MODEL, BITTER_FEATURES,
-                  SWEET_MODEL, SWEET_FEATURES)
-    bitter_taste, bitter_prob, sweet_taste, sweet_prob = model.predict(data)
+    model = Model(ages_MODEL, ages_FEATURES,
+                  noages_MODEL, noages_FEATURES)
+    ages_taste, ages_prob, noages_taste, noages_prob = model.predict(data)
 
-    data['bitter_taste'] = bitter_taste
-    data['bitter_prob'] = bitter_prob[:, 1]
+    data['ages_taste'] = ages_taste
+    data['ages_prob'] = ages_prob[:, 1]
 
-    data['sweet_taste'] = sweet_taste
-    data['sweet_prob'] = sweet_prob[:, 1]
+    data['noages_taste'] = noages_taste
+    data['noages_prob'] = noages_prob[:, 1]
 
     return data, null_rows['name'].tolist()
 
