@@ -1,0 +1,60 @@
+amino acid,Canonical_SMILES,PubChem CID,dicarbonyl compounds ,Canonical_SMILES,PubChem CID,AGEs,Canonical_SMILES,PubChem CID
+lysine ,C(CCN)CC(C(=O)O)N,5962, 3-deoxyglucosulose ,C(C(C(CO)O)O)C(=O)C=O,114839,N¦Å-(carboxylmethyl)-L-lysine (CML),C(CCN)CC(C(=O)O)NCC(=O)O,123880
+lysine ,C(CCN)CC(C(=O)O)N,5962, 3-deoxyglucosulose ,C(C(C(CO)O)O)C(=O)C=O,114839,N¦Å-(carboxylethyl)-L-lysine,CC(C(=O)O)NCCCCC(C(=O)O)N,23400779
+lysine ,C(CCN)CC(C(=O)O)N,5962, 3-deoxyglucosulose ,C(C(C(CO)O)O)C(=O)C=O,114839,¦Á-amino adipic-¦Ä-semialdehyde (allysine),C(CC=O)CC(C(=O)O)N,207
+lysine ,C(CCN)CC(C(=O)O)N,5962, 3-deoxyglucosulose ,C(C(C(CO)O)O)C(=O)C=O,114839,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,methylglyoxal lysine dimer (MOLD) ,CC1=C[N+](=CN1CCCCC(C(=O)O)N)CCCCC(C(=O)O)N,46878528
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,N¦Å-(carboxylmethyl)-L-lysine (CML),C(CCN)CC(C(=O)O)NCC(=O)O,123880
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,N¦Å-(carboxylethyl)-L-lysine,CC(C(=O)O)NCCCCC(C(=O)O)N,23400779
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,glycolloyllysine,C(CC(C(=O)CO)N)CC(C(=O)O)N,"	129821570"
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,methylglyoxal lysine dimer (MOLD) ,CC1=C[N+](=CN1CCCCC(C(=O)O)N)CCCCC(C(=O)O)N,46878528
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,N¦Å-(carboxylmethyl)-L-lysine (CML),C(CCN)CC(C(=O)O)NCC(=O)O,123880
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,N¦Å-(carboxylethyl)-L-lysine,CC(C(=O)O)NCCCCC(C(=O)O)N,23400779
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+lysine ,C(CCN)CC(C(=O)O)N,5962,methylglyoxal,CC(=O)C=O,880,glycolloyllysine,C(CC(C(=O)CO)N)CC(C(=O)O)N,"	129821570"
+lysine ,C(CCN)CC(C(=O)O)N,5962,glyoxal,C(=O)C=O,7860,methylglyoxal lysine dimer (MOLD) ,CC1=C[N+](=CN1CCCCC(C(=O)O)N)CCCCC(C(=O)O)N,46878528
+arginine,C(CC(C(=O)O)N)CN=C(N)N,6322,methylglyoxal,CC(=O)C=O,880,Tetrahydropyrimidine(THP),C1C=CNCN1,5231957
+arginine,C(CC(C(=O)O)N)CN=C(N)N,6322,methylglyoxal,CC(=O)C=O,880,argpyrimidine (AP),CC1=C(C(=NC(=N1)NCCCC(C(=O)O)N)C)O,"	17750123"
+arginine,C(CC(C(=O)O)N)CN=C(N)N,6322,methylglyoxal,CC(=O)C=O,880,methylglyoxal imidazolinone (MG-H1),C1C(=O)NC=N1,504
+arginine,C(CC(C(=O)O)N)CN=C(N)N,6322,glyoxal,C(=O)C=O,7860,hydroimidazoione,CC1C(=O)NC(=NCCCC(C(=O)O)N)N1,135879921
+arginine,C(CC(C(=O)O)N)CN=C(N)N,6322,glycolaldehyde,C(C=O)O,756,hydroimidazoione,CC1C(=O)NC(=NCCCC(C(=O)O)N)N1,135879921
+arginine,C(CC(C(=O)O)N)CN=C(N)N,6322,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pentosidine,C1=CN(C2=NC(=NC2=C1)NCCCC(C(=O)O)N)CCCCC(C(=O)O)N,119593
+¦Â-lactoglobulin (bLG£©,CCC(C)C(C(=O)NC(CCCN=C(N)N)C(=O)O)NC(=O)C(CC1=CN=CN1)NC(=O)C(CCSC)NC(=O)C2CCCN2C(=O)C(CC(C)C)NC(=O)C(C)N,9988076,methylglyoxal,CC(=O)C=O,880,N¦Å-(carboxylmethyl)-L-lysine (CML),C(CCN)CC(C(=O)O)NCC(=O)O,123880
+¦Â-lactoglobulin (bLG£©,CCC(C)C(C(=O)NC(CCCN=C(N)N)C(=O)O)NC(=O)C(CC1=CN=CN1)NC(=O)C(CCSC)NC(=O)C2CCCN2C(=O)C(CC(C)C)NC(=O)C(C)N,9988076,methylglyoxal,CC(=O)C=O,880,N¦Ä-(5-hydro-5-methyl-4-imidazolon-2-yl)-L-ornithine (MG-H1),CC1C(=O)NC(=NCCCC(C(=O)O)N)N1,135879921
+deoxyribonucleic acid,[NH2-].[NH2-].Cl[Pt]Cl,6712951,methylglyoxal,CC(=O)C=O,880, N2(1-carboxyethyl)-2'-deoxyguanosine,CC(C(=O)O)NC1=NC2=C(C(=O)N1)N=CN2C3CC(C(O3)CO)O,135970739
+lysine ,C(CCN)CC(C(=O)O)N,5962,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+lysine ,C(CCN)CC(C(=O)O)N,5962,fructose,C1C(C(C(C(O1)(CO)O)O)O)O,2723872,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+lysine ,C(CCN)CC(C(=O)O)N,5962,lactose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,6134,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+lysine ,C(CCN)CC(C(=O)O)N,5962,saccharose,C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O,5988,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Ala,CC(C(=O)O)NC(=O)C(CCCCN)N,7010504,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Gly,C(CCN)CC(C(=O)NCC(=O)O)N,7022320,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Ser,C(CCN)CC(C(=O)NC(CO)C(=O)O)N,151428,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Ile,CCC(C)C(C(=O)O)NC(=O)C(CCCCN)N,"	7010499",glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Leu,CC(C)CC(C(=O)O)NC(=O)C(CCCCN)N,"	7016103",glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Thr,CC(C(C(=O)O)NC(=O)C(CCCCN)N)O,16049576,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Val,CC(C)C(C(=O)O)NC(=O)C(CCCCN)N,6992341,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+ Lys-Ala-Gly,CC(C(=O)NCC(=O)O)NC(=O)C(CCCCN)N,"	54466615",glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Gly-Gly,C(CCN)CC(C(=O)NCC(=O)NCC(=O)O)N,7019091,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Ser-Gly,C(CCN)CC(C(=O)NC(CO)C(=O)NCC(=O)O)N,145456766,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Val-Gly,CC(C)C(C(=O)NCC(=O)O)NC(=O)C(CCCCN)N,10380191,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Leu-Gly,CC(C)CC(C(=O)NCC(=O)O)NC(=O)C(CCCCN)N,24769460,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Thr-Gly,CC(C(C(=O)NCC(=O)O)NC(=O)C(CCCCN)N)O,145456781,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+Lys-Ile-Gly,CCC(C)C(C(=O)NCC(=O)O)NC(=O)C(CCCCN)N,24769404,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,pyrraline,C1=C(N(C(=C1)C=O)CCCCC(C(=O)O)N)CO,122228
+lysine ,C(CCN)CC(C(=O)O)N,5962,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,N¦Å-(carboxylmethyl)-L-lysine (CML),C(CCN)CC(C(=O)O)NCC(=O)O,123880
+lysine ,C(CCN)CC(C(=O)O)N,5962,lactose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,6134,N¦Å-(carboxylmethyl)-L-lysine (CML),C(CCN)CC(C(=O)O)NCC(=O)O,123880
+lysine ,C(CCN)CC(C(=O)O)N,5962,saccharose,C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O,5988,N¦Å-(carboxylmethyl)-L-lysine (CML),C(CCN)CC(C(=O)O)NCC(=O)O,123880
+lysine ,C(CCN)CC(C(=O)O)N,5962,lactose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,6134,N¦Å-(carboxylethyl)-L-lysine (CEL),CC(C(=O)O)NCCCCC(C(=O)O)N,23400779
+lysozyme,CC(C(=O)NC(CCC(=O)NC(CCCCN)C(=O)NC(C)C(=O)O)C(=O)N)NC(=O)C(C)OC1C(C(OC(C1OC2C(C(C(C(O2)CO)O)O)CC(=O)C)CO)O)NC(=O)O,24839946,fructose,C1C(C(C(C(O1)(CO)O)O)O)O,2723872,N¦Å-(carboxylmethyl)-L-lysine (CML),C(CCN)CC(C(=O)O)NCC(=O)O,123880
+arginine,C(CC(C(=O)O)N)CN=C(N)N,6322,3-deoxyglucosone ,C(C(C(CO)O)O)C(=O)C=O,114839,imidazolone A ,C(CC(C(=O)O)N)CN=C1NC(C(=O)N1)CC(C(CO)O)O,136703964
+ Gly-Cys,C(C(C(=O)O)NC(=O)CN)S,7408690,methylglyoxal,CC(=O)C=O,880,pyrazinone ,C1=CN=CC(=O)N1,72758
+ Gly-Gly,C(C(=O)NCC(=O)O)N,11163,methylglyoxal,CC(=O)C=O,880,pyrazinone ,C1=CN=CC(=O)N1,72758
+Gly-Leu,CC(C)CC(C(=O)O)NC(=O)CN,92843,methylglyoxal,CC(=O)C=O,880,pyrazinone ,C1=CN=CC(=O)N1,72758
+Gly-Phe,C1=CC=C(C=C1)CC(C(=O)O)NC(=O)CN,92953,methylglyoxal,CC(=O)C=O,880,pyrazinone ,C1=CN=CC(=O)N1,72758
+Gly-Pro,C1CC(N(C1)C(=O)CN)C(=O)O,3013625,methylglyoxal,CC(=O)C=O,880,pyrazinone ,C1=CN=CC(=O)N1,72758
+ Gly-Ser ,C(C(C(=O)O)NC(=O)CN)O,73086,methylglyoxal,CC(=O)C=O,880,pyrazinone ,C1=CN=CC(=O)N1,72758
+ Gly-Gly-Gly,C(C(=O)NCC(=O)NCC(=O)O)N,11161,methylglyoxal,CC(=O)C=O,880,pyrazinone ,C1=CN=CC(=O)N1,72758
+ Gly-Ala-Phe ,CC(C(=O)NC(CC1=CC=CC=C1)C(=O)O)NC(=O)CN,6992494,glyoxal,C(=O)C=O,7860,pyrazinone ,C1=CN=CC(=O)N1,72758
+ Gly-Ala-Phe ,CC(C(=O)NC(CC1=CC=CC=C1)C(=O)O)NC(=O)CN,6992494,methylglyoxal,CC(=O)C=O,880,5-methylpyrazinone ,CC1=CC(=O)NN=C1,327041
+Immunoglobulin G(IgG) ,CC(C(C(=O)NC(CCCCN)C(=O)N1CCCC1C(=O)NC(CCCN=C(N)N)C(=O)O)NC(=O)C(CCCCN)NC(=O)C(C)NC(=O)C(CC(=O)N)NC(=O)C(CC2=CNC3=CC=CC=C32)N)O,190955,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,N¦Å-(carboxylmethyl)-L-lysine ,C(CCN)CC(C(=O)O)NCC(=O)O,123880
+deoxyribonucleic acid,[NH2-].[NH2-].Cl[Pt]Cl,6712951,glucose ,C(C1C(C(C(C(O1)O)O)O)O)O,5793,N2-carboxyethyl-2'-deoxyguanosine,CC(C(=O)O)NC1=NC2=C(C(=O)N1)N=CN2C3CC(C(O3)CO)O,135970739

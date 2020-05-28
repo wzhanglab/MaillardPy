@@ -44,10 +44,10 @@ To setup a working environment to execute some or all sections of this project, 
 
     .
     .
-    ├── data                     # Model Training & Test Data (Tabular Format)
+    ├── data                  # Model Training & Test Data (Tabular Format)
     │   ├── maillard-test.tsv
     │   ├── maillard-train.tsv
-    ├── bittersweet                    # All Source Files
+    ├── maillard            # All Source Files
     │   ├── models			# Trained Models
     │   │   ├── maillard_chemopy_boruta_features.p
     │   │   ├── maillard_chemopy_rf_boruta.p
@@ -55,7 +55,7 @@ To setup a working environment to execute some or all sections of this project, 
     │   ├── model.py
     │   ├── properties.py
     │   ├── read_file.py
-    ├── manuscript-experiments                    # Testing modules (including those for random-control experiments)
+    ├── manuscript-experiments           # Testing modules (including those for random-control experiments)
     │   ├── maillard					# Directory containing scripts
     │   ├── data						# Directory containing data
     │   ├── models						# Directory containing models
