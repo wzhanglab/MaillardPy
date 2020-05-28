@@ -5,7 +5,7 @@
 </p>
 
 ## Abstract
-.The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor. Seared steaks, fried dumplings, cookies and other kinds of biscuits, breads, toasted marshmallows, and many other foods undergo this reaction. It is named after French chemist Louis-Camille Maillard, who first described it in 1912 while attempting to reproduce biological protein synthesis.
+The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor. Seared steaks, fried dumplings, cookies and other kinds of biscuits, breads, toasted marshmallows, and many other foods undergo this reaction. It is named after French chemist Louis-Camille Maillard, who first described it in 1912 while attempting to reproduce biological protein synthesis.
 The reactive carbonyl group of the sugar reacts with the nucleophilic amino group of the amino acid,  and forms a complex mixture of poorly characterized molecules responsible for a range of aromas and flavors. 
 Maillard reactions can produce hundreds of different Advanced glycation end products (AGEs depending on the chemical constituents in the food, the temperature, the cooking time, and the presence of air. Advanced glycation end products (AGEs) are proteins or lipids that become glycated as a result of exposure to sugars. They are a bio-marker implicated in aging and the development, or worsening, of many degenerative diseases, such as diabetes, atherosclerosis, chronic kidney disease, and Alzheimer's disease.
 Melanoidins are brown, high molecular weight heterogeneous polymers that are formed when sugars and amino acids combine (through the Maillard reaction) at high temperatures and low water activity. Melanoidins are commonly present in foods that have undergone some form of non-enzymatic browning, such as barley malts (Vienna and Munich), bread crust, bakery products and coffee. They are also present in the wastewater of sugar refineries, necessitating treatment in order to avoid contamination around the outflow of these refineries.
@@ -14,11 +14,11 @@ The polymers make the constituting dietary sugars and fats unavailable to the no
 
 
 ## Authors
-1. Yutang Wang
+1. Yutang Wang<sup>*</sup>
 2. Haibin Ren
-3. Huihui Yang<sup>*</sup>
+3. Huihui Yang
 
-Key Lab of Dairy Science (KLDS-NEAU), Harbin, China
+Key Lab of Dairy Science, Ministry of Education, Northeast Agriculture University, education (KLDS-NEAU), Harbin, China
 <sup>*</sup>Corresponding Author (fic@neau.edu.cn, wangyt@neau.edu.cn)
 
 ## Pre-requisites for execution
@@ -69,4 +69,4 @@ To setup a working environment to execute some or all sections of this project, 
 The authors thank Center for Education Technology,NEAU(CET-NEAU) for providing computational facilities and support. 
 
 ## Author Contributions
-Y.Wang. and H.Y. designed the study. H.R. curated the data. H.Y., H.R. performed feature selection and importance ranking experiments, and trained the models. H.R. generated the Maillard predictions for specialized chemicals sets. All the authors analysed the results and wrote the manuscript.  
+Y.Wang designed the study. H.R. curated the data. H.Y., H.R. performed feature selection and importance ranking experiments, and trained the models. H.R. generated the Maillard predictions for specialized chemicals sets.
