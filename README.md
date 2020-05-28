@@ -49,8 +49,8 @@ To setup a working environment to execute some or all sections of this project, 
     │   ├── maillard-train.tsv
     ├── maillard            # All Source Files
     │   ├── models			# Trained Models
-    │   │   ├── maillard_chemopy_boruta_features.p
-    │   │   ├── maillard_chemopy_rf_boruta.p
+    │   │   ├── AGEs_NN.p
+    │   │   ├── dic_SVM.p
     │   ├── __init__.py
     │   ├── model.py
     │   ├── properties.py
