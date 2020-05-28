@@ -11,10 +11,10 @@ parser.add_argument("dtype", help="Enter the molecular format of file (smiles/sd
 parser.add_argument("output", help="Enter the path to the folder where output will be saved.")
 
 # Model and model feature paths.
-ages_MODEL = 'maillardpy/models/ages_chemopy_rf_boruta.p'
-ages_FEATURES = 'maillardpy/models/ages_chemopy_boruta_features.p'
-noages_MODEL = 'maillardpy/models/noages_chemopy_rf_boruta.p'
-noages_FEATURES = 'maillardpy/models/noages_chemopy_boruta_features.p'
+ages_MODEL = 'maillard/models/AGEs_NN.p'
+ages_FEATURES = 'maillard/models/dic_SVM_features.p'
+noages_MODEL = 'maillard/models/dic_SVM.p'
+noages_FEATURES = 'maillard/models/dic_SVM_features.p'
 
 def get_prediction(f, dtype):
     
