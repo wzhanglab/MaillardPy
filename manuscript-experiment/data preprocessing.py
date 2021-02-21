@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+# out[2]
 
 #preprocessing
 import numpy as np
