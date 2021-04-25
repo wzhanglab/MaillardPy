@@ -19,9 +19,9 @@ from sklearn.svm import SVC
 
 
 #read
-data_1 = pd.read_csv('C:/Users/86157/yang/a1.csv', encoding = 'gbk')
-data_2 = pd.read_csv('C:/Users/86157/yang/c1.csv', encoding = 'gbk')
-data_3 = pd.read_csv('C:/Users/86157/yang/d1.csv', encoding = 'gbk')
+data_1 = pd.read_csv('../data/a1.csv', encoding = 'gbk')
+data_2 = pd.read_csv('../data/c1.csv', encoding = 'gbk')
+data_3 = pd.read_csv('../data/d1.csv', encoding = 'gbk')
 
 
 # In[3]:
